@@ -1,7 +1,7 @@
 <template>
     <div class="menu-links">
-        <a href="/">HOME</a>
-        <a href="/todolist">Todo List</a>
+        <a href="/">首頁</a>
+        <a href="/todolist">事項列表</a>
     </div>
 </template>
 <style>
