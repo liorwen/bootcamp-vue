@@ -19,7 +19,7 @@
       .todo-title {
           font-size: 18px;
           color: #9c0033;
-          border-bottom: 6px solid red;
+          border-bottom: 6px solid green;
       }
       .todo-name {
           padding: 4px;
