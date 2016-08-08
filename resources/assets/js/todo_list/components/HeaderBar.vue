@@ -1,7 +1,7 @@
 <template>
     <div class="menu-links">
-        <a v-link="{path:'/'}">HOME</a>
-        <a v-link="{path:'/todolist'}">Todo List</a>
+        <a href="/">HOME</a>
+        <a href="/todolist">Todo List</a>
     </div>
 </template>
 <style>
