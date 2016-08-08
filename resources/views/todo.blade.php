@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<div id="app">
-    <todo-component></todo-component>
-</div>
-<script src="/js/todo.js"></script>
+   <app></app>
+   <script src="//cdn.bootcss.com/vue/1.0.26/vue.min.js"></script>
+   <script src="{{ asset('/js/todo/app.js')}}"></script>
 </body>
 </html>

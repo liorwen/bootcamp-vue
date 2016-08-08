@@ -14,5 +14,5 @@ var elixir = require('laravel-elixir');
 elixir(function(mix) {
     mix.sass('app.scss');
 
-    mix.browserify('todo_list/app.js', 'public/js/todo.js');
+    mix.browserify('todo_list/app.js', 'public/js/todo/app.js');
 });
