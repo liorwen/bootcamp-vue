@@ -14,7 +14,7 @@
     import TodoComponent from './TodoComponent.vue';
     export default{
         components:{
-            HeaderBar
+            HeaderBar,
             TodoComponent
         }
     }
