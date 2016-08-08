@@ -4,7 +4,9 @@
     </div>
 </template>
 <style>
-
+   .footer {
+       border-top: 6px solid red;
+   }
 </style>
 <script>
 
